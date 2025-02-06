@@ -5,7 +5,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=green)
-
+🌱 I’m currently learning 
+- Golang
+- Python
+- Docker
+- Microservices
+- Linux.
 
 <!--
 **grigoriy-st/grigoriy-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
