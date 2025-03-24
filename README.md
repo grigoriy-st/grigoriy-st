@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Btw, I use **Arch**.
+
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,7 +13,7 @@
 - Microservices
 - Linux.
 
-![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=green)
+![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=blue)
 
 
 <!--
