@@ -1,3 +1,8 @@
+<style>
+  ul li {
+    list-style-type: none;
+  }
+</style> 
 
 <div align="center">
 
@@ -13,11 +18,11 @@
 
 <h3>🌱 I’m currently learning</h3>
 <ul>
-  <li list-style-type="none">Linux</li>
-  <li list-style-type="none">Networks</li>
-  <li list-style-type="none">Microservices</li>
-  <li list-style-type="none">Python</li>
-  <li list-style-type="none">Golang</li>
+  <li>Linux</li>
+  <li>Networks</li>
+  <li>Microservices</li>
+  <li>Python</li>
+  <li>Golang</li>
 </ul>
 
 ![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=blue)
