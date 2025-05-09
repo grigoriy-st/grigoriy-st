@@ -8,11 +8,11 @@
   
 <table>
   <tr>
-    <td style="padding: 0;">
+    <td style="padding: 0; border:none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=450&langs_count=9&hide_border=true&title_color=FF0000" alt="Top Langs">
     </td>
-    <td style="padding: 0;">
-      <img src="https://streak-stats.demolab.com?user=grigoriy-st&theme=neon-dark&fire=DD472C" alt="GitHub Streak">
+    <td style="padding: 0; border: none;">
+      <img src="https://streak-stats.demolab.com?user=grigoriy-st&theme=neon-dark&fire=DD472C&hide_border=true" alt="GitHub Streak">
     </td>
   </tr>
 </table>
