@@ -19,9 +19,9 @@
   <li type="none">Golang</li>
 </ul>
 
-[![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=blue)]()
-
 </div>
+
+![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=blue)
 <!--
 **grigoriy-st/grigoriy-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
