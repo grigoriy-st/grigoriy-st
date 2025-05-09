@@ -1,12 +1,3 @@
-<style>
-      
-    ul li {
-        list-style-type: none;
-      }
-
-</style> 
-
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+love+write+code.;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]()
@@ -21,7 +12,7 @@
 
 <h3>🌱 I’m currently learning</h3>
 <ul>
-  <li>Linux</li>
+  <li type="none">Linux</li>
   <li>Networks</li>
   <li>Microservices</li>
   <li>Python</li>
