@@ -1,5 +1,6 @@
 <div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+love+write+code.;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+love+write+code.;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)
 
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
 
@@ -8,8 +9,8 @@
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=react-dark&area=true&hide_border=true&custom_title=Моя%20Активность)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-🌱 I’m currently learning 
+
+<h3>🌱 I’m currently learning</h3>
 - Golang
 - Python
 - Docker
@@ -18,7 +19,7 @@
 
 ![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=blue)
 
-
+</div>
 <!--
 **grigoriy-st/grigoriy-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
