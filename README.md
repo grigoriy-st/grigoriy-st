@@ -5,15 +5,21 @@
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
 
 <div align="center">
-  
+
+
+      
 <table>
   <tr>
-    <td style="padding: 0; border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=450&langs_count=9&hide_border=true&title_color=FF0000" alt="Top Langs">
+    <td style="padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=400&langs_count=9&hide_border=true&title_color=FF0000" alt="Top Langs">
     </td>
-    <td style="padding: 0; border: none;">
-      <img src="https://streak-stats.demolab.com?user=grigoriy-st&theme=neon-dark&fire=DD472C&hide_border=true" alt="GitHub Streak">
-    </td>
+<!--     <td style="padding: 0;">
+      <img 
+        src="https://streak-stats.demolab.com?user=grigoriy-st&theme=neon-dark&fire=DD472C" 
+        alt="GitHub Streak" 
+        width="200" 
+        height="200">
+    </td> -->
   </tr>
 </table>
 
