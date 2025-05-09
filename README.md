@@ -4,9 +4,9 @@
 
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=500&langs_count=9&hide_border=true&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=grigoriy-st&theme=monokai-metallian&fire=DD472C&animation=zoomOut)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
