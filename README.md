@@ -1,5 +1,6 @@
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+love+write+code.;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]
 
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
