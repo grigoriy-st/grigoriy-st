@@ -6,8 +6,9 @@ Btw, I use **Arch**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=500&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет,+я+backend-разработчик!;Люблю+Rust+и+TypeScript.&center=true&width=500&height=50&animation=scale-in)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+-engineer!;I+love+write+code.&center=true&width=500&height=50&animation=scale-in)
 
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=grigoriy-st&theme=react-dark&area=true&hide_border=true&custom_title=Моя%20Активность&animation=wind)](https://github.com/ashutosh00710/github-readme-activity-graph)
 🌱 I’m currently learning 
 - Golang
 - Python
