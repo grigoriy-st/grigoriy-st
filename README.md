@@ -19,7 +19,7 @@
   <li type="none">Golang</li>
 </ul>
 
-![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=blue)
+[![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=blue)]()
 
 </div>
 <!--
