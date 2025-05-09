@@ -6,7 +6,7 @@ Btw, I use **Arch**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=500&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
-![Weather](https://weather-icon.vercel.app/api/openweathermap?location=Москва&animation=spin)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет,+я+backend-разработчик!;Люблю+Rust+и+TypeScript.&center=true&width=500&height=50&animation=scale-in)
 
 🌱 I’m currently learning 
 - Golang
