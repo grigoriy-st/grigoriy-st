@@ -5,16 +5,18 @@
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
 
 <div align="center">
-  <table>
-    <tr>
-      <td style="padding: 0;">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=450&langs_count=9&hide_border=true&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
-      </td>
-      <td style="padding: 0;">
-        [![GitHub Streak](https://streak-stats.demolab.com?user=grigoriy-st&theme=monokai-metallian&fire=DD472C)](https://git.io/streak-stats)
-      </td>
-    </tr>
-  </table>
+  
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=450&langs_count=9&hide_border=true&title_color=FF0000" alt="Top Langs">
+    </td>
+    <td style="padding: 0;">
+      <img src="https://streak-stats.demolab.com?user=grigoriy-st&theme=monokai-metallian&fire=DD472C" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+
 </div>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
