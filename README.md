@@ -3,10 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+love+write+code.;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]()
 
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
-<!-- Учитывается кол-во кода и кол-во репозиториев !-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=500&langs_count=9&hide_border=true&title_color=FF0000&count_weight=1&size_weight=1&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=grigoriy-st&theme=monokai-metallian&fire=DD472C&animation=zoomOut)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <!-- Учитывается кол-во кода и кол-во репозиториев !-->
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=500&langs_count=9&hide_border=true&title_color=FF0000&count_weight=1&size_weight=1&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+    <td>
+      [![GitHub Streak](https://streak-stats.demolab.com?user=grigoriy-st&theme=monokai-metallian&fire=DD472C&animation=zoomOut)](https://git.io/streak-stats)
+    </td>
+  </tr>
+</table>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
