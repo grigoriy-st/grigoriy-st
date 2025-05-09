@@ -5,7 +5,7 @@ Btw, I use **Arch**.
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=500&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
-
+![Weather](https://weather-icon.vercel.app/api/openweathermap?location=Омск&animation=spin)
 🌱 I’m currently learning 
 - Golang
 - Python
