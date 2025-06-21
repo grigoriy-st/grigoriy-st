@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=400&langs_count=9&hide_border=true&title_color=FF0000" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=400&langs_count=9&hide_border=true&title_color=3498db" alt="Top Langs">
     </td>
 <!--     <td style="padding: 0;">
       <img 
