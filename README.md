@@ -29,11 +29,11 @@
 
 <h3>🌱 I’m currently learning</h3>
 <ul>
-  <li type="none">Linux</li>
+<!--   <li type="none">Linux</li> -->
   <li type="none">Networks</li>
   <li type="none">Microservices</li>
-  <li type="none">Python</li>
-  <li type="none">Golang</li>
+  <li type="none">TypeScript</li>
+<!--   <li type="none">Golang</li> -->
 </ul>
 
 </div>
