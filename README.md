@@ -36,9 +36,24 @@
 <!--   <li type="none">Golang</li> -->
 </ul>
 
-</div>
+
+[![Rutube](https://img.shields.io/badge/-Rutube-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOS42MTUgNS43MjJjLS4yMDYtLjYxNS0uNjE1LS45MjMtMS4yMy0uOTIzSDEuMjNjLS42MTUgMC0xLjAyOS4zMDgtMS4yMy45MjMtLjIwNi42MTUtLjMwOCAxLjUzOC0uMzA4IDMuMDc3djYuNDA5YzAgMS41MzguMTAyIDIuNDYyLjMwOCAzLjA3Ny4yMDEuNjE1LjYxNS45MjMgMS4yMy45MjNoMTcuMTU1Yy42MTUgMCAxLjAyOS0uMzA4IDEuMjMtLjkyMy4yMDYtLjYxNS4zMDgtMS41MzguMzA4LTMuMDc3VjguNzk5Yy0uMDA2LTEuNTM5LS4xMDItMi40NjItLjMwOC0zLjA3N3pNOC40NjIgMTUuNzg5VjguMjA1bDUuOTM5IDMuNzk5LTUuOTM5IDMuNzg1eiIvPjwvc3ZnPg==&logoColor=white)](https://rutube.ru/channel/40119237/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/grigoriy-st)
+[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com/users/grigoriy_st)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/grigoriy-st/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_ник/)
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/grigoriy-st)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grigoriy-st)
+[![Habr](https://img.shields.io/badge/-Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/versatile_admin/)
 
 ![](https://komarev.com/ghpvc/?username=grigoriy-ste&color=blue)
+
+</div>
+
+
+
+
+
 <!--
 **grigoriy-st/grigoriy-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
