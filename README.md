@@ -17,28 +17,27 @@
 
 <div align="center">
       
-<table>
-  <tr>
-      <td>
-            <img src="https://leetcard.jacoblin.cool/grigoriy-st?theme=dark" alt="LeetCode">
+<table style="border: none !important; border-collapse: collapse; border-spacing: 0;">
+  <tr style="border: none !important;">
+      <td style="padding: 0; border: none !important; ">
+            <img src="https://leetcard.jacoblin.cool/grigoriy-st?theme=dark" alt="LeetCode" width="400px">
       </td>
     <td style="padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=400&langs_count=9&hide_border=true&hide=html,css&title_color=3498db" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=400&langs_count=5&hide_border=true&hide=html,css,tex,makefile&title_color=3498db" alt="Top Langs" width="400px" height="160px">
     </td>
-<!--     <td style="padding: 0;">
-      <img 
-        src="https://streak-stats.demolab.com?user=grigoriy-st&theme=neon-dark&fire=DD472C" 
-        alt="GitHub Streak" 
-        width="200" 
-        height="200">
-    </td> -->
 
   </tr>
 </table>
 
+
 </div>
 
-
+<!-- <img 
+        src="https://streak-stats.demolab.com?user=grigoriy-st&theme=neon-dark&fire=DD472C" 
+        alt="GitHub Streak" 
+        width="200" 
+        height="200">
+-->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3>🌱 I’m currently learning</h3>
