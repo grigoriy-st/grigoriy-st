@@ -11,7 +11,7 @@
 <div align="center">
 <br>
       
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+like+to+create+something+with+code+;I+love+minimalism!;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+like+to+create+something+using+code+;I+love+minimalism!;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]()
 
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
 
