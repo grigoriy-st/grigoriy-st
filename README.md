@@ -1,15 +1,27 @@
-<div align="center">
+<div style="display: flex; justify-content: space-between; width: 100%; outline:2px dashed red;">
+      <div style="display: flex;">
+            <img src="https://img.shields.io/badge/NVIDIA-GTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU">
+            <img src="https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="CPU">
+            <img src="https://img.shields.io/badge/Lenovo-ThinkPad-0078D6?style=for-the-badge&logo=Arch&logoColor=white" alt="Laptop">
+            <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch linux">
+      </div>
+</div>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+love+write+code.;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]()
+<div align="center">
+<br>
+      
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+like+to+create+something+with+code+;I+love+minimalism!;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]()
 
 [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
 
 <div align="center">
-
-
       
 <table>
   <tr>
+      <td>
+            <img src="https://leetcard.jacoblin.cool/grigoriy-st?theme=dark" alt="LeetCode">
+      </td>
     <td style="padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=400&langs_count=9&hide_border=true&hide=html,css&title_color=3498db" alt="Top Langs">
     </td>
@@ -20,23 +32,28 @@
         width="200" 
         height="200">
     </td> -->
+
   </tr>
 </table>
 
 </div>
+
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3>🌱 I’m currently learning</h3>
 <ul>
 <!--   <li type="none">Linux</li> -->
+  <li type="none">English</li>
+  <li type="none">Algorithms and Data Structures</li>
   <li type="none">Networks</li>
-  <li type="none">Microservices</li>
-  <li type="none">Golang</li>
-  <li type="none">TypeScript</li>
+<!--   <li type="none">Microservices</li> -->
+  <li type="none">Bash</li>
+<!--   <li type="none">TypeScript</li> -->
 <!--   <li type="none">Golang</li> -->
 </ul>
 
+<br>
 
 [![Rutube](https://img.shields.io/badge/-Rutube-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOS42MTUgNS43MjJjLS4yMDYtLjYxNS0uNjE1LS45MjMtMS4yMy0uOTIzSDEuMjNjLS42MTUgMC0xLjAyOS4zMDgtMS4yMy45MjMtLjIwNi42MTUtLjMwOCAxLjUzOC0uMzA4IDMuMDc3djYuNDA5YzAgMS41MzguMTAyIDIuNDYyLjMwOCAzLjA3Ny4yMDEuNjE1LjYxNS45MjMgMS4yMy45MjNoMTcuMTU1Yy42MTUgMCAxLjAyOS0uMzA4IDEuMjMtLjkyMy4yMDYtLjYxNS4zMDgtMS41MzguMzA4LTMuMDc3VjguNzk5Yy0uMDA2LTEuNTM5LS4xMDItMi40NjItLjMwOC0zLjA3N3pNOC40NjIgMTUuNzg5VjguMjA1bDUuOTM5IDMuNzk5LTUuOTM5IDMuNzg1eiIvPjwvc3ZnPg==&logoColor=white)](https://rutube.ru/channel/40119237/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/grigoriy-st)
