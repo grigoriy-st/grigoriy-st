@@ -1,9 +1,12 @@
-<div style="display: flex; justify-content: space-between; width: 100%; outline:2px dashed red;">
-      <div>
-            <a href="https://gitlab.com/grigoriy-st">
-                  <img src="https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab" alt="GitLab Profile" />
-            </a>
-      </div>
+<div style="display: flex">
+      
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grigoriy-st)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/grigoriy-st)
+[![GitVerse](https://img.shields.io/badge/GitVerse-6e4a7e?style=for-the-badge&logo=git&logoColor=white)](https://gitverse.ru/grigoriy-st)
+
+</div>
+
+<div style="display: flex; justify-content: space-between; width: 100%; outline:2px">
       <div style="display: flex;">
             <img src="https://img.shields.io/badge/NVIDIA-GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU">
             <img src="https://img.shields.io/badge/AMD-CPU-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="CPU">
