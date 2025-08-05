@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; width: 100%; outline:2px dashed red;">
       <div>
-            <a href="https://gitlab.com/your-username">
+            <a href="https://gitlab.com/grigoriy-st">
                   <img src="https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab" alt="GitLab Profile" />
             </a>
       </div>
