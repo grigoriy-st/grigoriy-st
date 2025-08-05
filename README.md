@@ -1,10 +1,16 @@
 <div style="display: flex; justify-content: space-between; width: 100%; outline:2px dashed red;">
+      <div>
+            <a href="https://gitlab.com/your-username">
+                  <img src="https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab" alt="GitLab Profile" />
+            </a>
+      </div>
       <div style="display: flex;">
             <img src="https://img.shields.io/badge/NVIDIA-GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU">
             <img src="https://img.shields.io/badge/AMD-CPU-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="CPU">
             <img src="https://img.shields.io/badge/Lenovo-ThinkPad-0078D6?style=for-the-badge&logo=Arch&logoColor=white" alt="Laptop">
             <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch linux">
       </div>
+
 </div>
 </div>
 
