@@ -32,7 +32,7 @@
             <img src="https://leetcard.jacoblin.cool/grigoriy-st?theme=dark" alt="LeetCode" width="400px">
       </td>
     <td style="padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=400&langs_count=5&hide_border=true&hide=html,css,tex,makefile&title_color=3498db" alt="Top Langs" width="400px" height="160px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&exclude_repo=yandexlyceum,ankihhru-skill-extractor&theme=highcontrast&card_width=400&langs_count=5&hide_border=true&hide=html,css,tex,makefile&title_color=3498db" alt="Top Langs" width="400px" height="160px">
     </td>
 
   </tr>
