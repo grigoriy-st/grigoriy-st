@@ -32,7 +32,7 @@
             <img src="https://leetcard.jacoblin.cool/grigoriy-st?theme=dark" alt="LeetCode" width="400px">
       </td>
     <td style="padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&exclude_repo=yandexlyceum,ankihhru-skill-extractor&theme=highcontrast&card_width=400&langs_count=5&hide_border=true&hide=html,css,tex,makefile&title_color=3498db" alt="Top Langs" width="400px" height="160px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=400&langs_count=6&hide_border=true&hide=html,css,tex,makefile&exclude_repo=Omsk-Starostin,Test_Rep_1,Test_Rep_2,GetTheWords,Administration,Practice_Smartkom,Alice2,Alice,hhru-skill-extractor,Anki,YandexLyceum&title_color=3498db" alt="Top Langs" width="400px" height="160px">
     </td>
 
   </tr>
@@ -53,11 +53,12 @@
 <ul>
 <!--   <li type="none">Linux</li> -->
   <li type="none">English</li>
-  <li type="none">Algorithms and Data Structures</li>
+<!--   <li type="none">Algorithms and Data Structures</li> -->
   <li type="none">Networks</li>
 <!--   <li type="none">Microservices</li> -->
   <li type="none">Bash</li>
-<!--   <li type="none">TypeScript</li> -->
+  <li type="none">TypeScript</li>
+  <li type="none">NextJS</li>
 <!--   <li type="none">Golang</li> -->
 </ul>
 
