@@ -4,7 +4,25 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/grigoriy-st)
 [![GitVerse](https://img.shields.io/badge/GitVerse-6e4a7e?style=for-the-badge&logo=git&logoColor=white)](https://gitverse.ru/grigoriy-st)
 
-</div>
+<!--| Category           | Technologies/Tools                                                                 |
+|--------------------|-----------------------------------------------------------------------------------|
+| **OS**            | Arch Linux, Windows 10 Pro                                                        |
+| **Servers**       |                              |
+| **Network Design**| VLANs, Subnetting                                        |
+| **Network Equipment** | Cisco, D-Link, Mikrotik                                          |
+| **Cloud Services**|                                                   |
+| **Virtualization**| VMware, Hyper-V                                              |
+| **Containerization** | Docker                            |
+| **Scripting**     | Bash, PowerShell, Python                                             |
+| **IaC**           | Ansible                                 |
+| **IAM**           |                                            |
+| **CI/CD**         | GitLab CI                                  |
+| **DB/DBMS**       | PostgreSQL, MySQL                                      |
+| **Security**      |         |
+| **Monitoring**    |                                     |
+| **Software**      | Vim, Wireshark                            |
+| **Helpdesk**      |                              |
+-->
 
 <div style="display: flex; justify-content: space-between; width: 100%; outline:2px">
       <div style="display: flex;">
@@ -47,9 +65,9 @@
         width="200" 
         height="200">
 -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=high-contrast&area=true&hide_border=true&custom_title=My%20Activity&bg_color=black&color=#ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3>🌱 I’m currently learning</h3>
+<h3>I'm currently wondering</h3>
 <ul>
 <!--   <li type="none">Linux</li> -->
   <li type="none">English</li>
