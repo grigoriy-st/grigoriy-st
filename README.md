@@ -30,6 +30,7 @@
             <img src="https://img.shields.io/badge/AMD-CPU-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="CPU">
             <img src="https://img.shields.io/badge/Lenovo-ThinkPad-0078D6?style=for-the-badge&logo=Arch&logoColor=white" alt="Laptop">
             <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch linux">
+            <img src="https://img.shields.io/badge/Windows%20Server%20Datacenter-2022-0078D4?style=for-the-badge&logo=windows" alt="Windows Server Datacenter 2022">
       </div>
 
 </div>
