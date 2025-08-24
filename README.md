@@ -68,7 +68,7 @@
 -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=high-contrast&area=true&hide_border=true&custom_title=My%20Activity&bg_color=black&color=#ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3>I'm currently wondering</h3>
+<h3>🔭I'm interested in</h3>
 <ul>
 <!--   <li type="none">Linux</li> -->
   <li type="none">English</li>
