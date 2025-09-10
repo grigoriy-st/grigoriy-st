@@ -1,4 +1,4 @@
-<div style="display: flex">
+<div style="display: flex;" align="center">
       
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grigoriy-st)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/grigoriy-st)
@@ -13,7 +13,7 @@
 | **Cloud Services**|                                                   |
 | **Virtualization**| VMware, Hyper-V                                              |
 | **Containerization** | Docker                            |
-| **Scripting**     | Bash, PowerShell, Python                                             |
+| **Scripting**     | Bash, PowerShell, Python, Go                                           |
 | **IaC**           | Ansible                                 |
 | **IAM**           |                                            |
 | **CI/CD**         | GitLab CI                                  |
@@ -46,6 +46,14 @@
 <div align="center">
       
 <table style="border: none !important; border-collapse: collapse; border-spacing: 0;">
+<!--   <tr style="border: none !important;">
+    <td style="padding: 0; border: none !important; ">
+      <img src="https://github-readme-stats.vercel.app/api?username=grigoriy-st&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&line_height=20" alt="LeetCode" width="400px">
+    </td>
+    <td style="padding: 0; border: none !important; ">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grigoriy-st&theme=github_dark&hide_border=true" height="200px" width="600">
+    </td>
+  </tr> -->
   <tr style="border: none !important;">
       <td style="padding: 0; border: none !important; ">
             <img src="https://leetcard.jacoblin.cool/grigoriy-st?theme=dark" alt="LeetCode" width="400px">
@@ -65,8 +73,20 @@
         alt="GitHub Streak" 
         width="200" 
         height="200">
--->
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=high-contrast&area=true&hide_border=true&custom_title=My%20Activity&bg_color=black&color=#ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=high-contrast&area=true&hide_border=true&custom_title=My%20Activity&bg_color=black&color=#ffffff" width="100%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grigoriy-st&theme=github_dark&hide_border=true" width="100%">
+
+<!-- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=grigoriy-st&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grigoriy-st&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![3D Contributions](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+[![Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,vue,nodejs,django,flask,postgresql,mongodb,redis,docker,aws,gcp,git,github,linux) 
+-->
+
 
 <h3>🔭I'm interested in</h3>
 <ul>
@@ -74,10 +94,10 @@
   <li type="none">English</li>
 <!--   <li type="none">Algorithms and Data Structures</li> -->
   <li type="none">Networks</li>
-<!--   <li type="none">Microservices</li> -->
-  <li type="none">Bash</li>
-  <li type="none">TypeScript</li>
-  <li type="none">NextJS</li>
+  <li type="none">Microservices</li>
+  <li type="none">Golang</li>
+<!--   <li type="none">TypeScript</li>
+  <li type="none">NextJS</li> -->
 <!--   <li type="none">Golang</li> -->
 </ul>
 
