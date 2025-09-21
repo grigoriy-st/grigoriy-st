@@ -59,7 +59,7 @@
             <img src="https://leetcard.jacoblin.cool/grigoriy-st?theme=dark" alt="LeetCode" width="400px">
       </td>
     <td style="padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=350&langs_count=10&hide_border=true&hide=html,css,tex,makefile&exclude_repo=Omsk-Starostin,Test_Rep_1,Test_Rep_2,GetTheWords,Administration,Practice_Smartkom,Alice2,Alice,hhru-skill-extractor,Anki,YandexLyceum&title_color=3498db" alt="Top Langs" width="400px" height="200px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=350&langs_count=8&hide_border=true&hide=html,css,tex,makefile&exclude_repo=Omsk-Starostin,Test_Rep_1,Test_Rep_2,GetTheWords,Administration,Practice_Smartkom,Alice2,Alice,hhru-skill-extractor,Anki,YandexLyceum&title_color=3498db" alt="Top Langs" width="400px" height="200px">
     </td>
 
   </tr>
