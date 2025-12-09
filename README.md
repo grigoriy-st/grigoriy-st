@@ -6,7 +6,7 @@
 
 <!--| Category           | Technologies/Tools                                                                 |
 |--------------------|-----------------------------------------------------------------------------------|
-| **OS**            | Arch Linux, Windows 10 Pro                                                        |
+| **OS**            | Arch Linux, Windows 10                                                        |
 | **Servers**       |                              |
 | **Network Design**| VLANs, Subnetting                                        |
 | **Network Equipment** | Cisco, D-Link, Mikrotik                                          |
@@ -39,21 +39,21 @@
 <div align="center">
 <br>
       
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+like+to+create+something+using+code+;I+love+minimalism!;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+like+to+automate+something.;I+love+minimalism!;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]()
 
-[![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st) 
+<!-- [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st)  -->
 
-<div align="center">
+<!-- <div align="center">
       
 <table style="border: none !important; border-collapse: collapse; border-spacing: 0;">
-<!--   <tr style="border: none !important;">
-    <td style="padding: 0; border: none !important; ">
+<tr style="border: none !important;">
+ <td style="padding: 0; border: none !important; ">
       <img src="https://github-readme-stats.vercel.app/api?username=grigoriy-st&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&line_height=20" alt="LeetCode" width="400px">
     </td>
     <td style="padding: 0; border: none !important; ">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grigoriy-st&theme=github_dark&hide_border=true" height="200px" width="600">
     </td>
-  </tr> -->
+  </tr>
   <tr style="border: none !important;">
       <td style="padding: 0; border: none !important; ">
             <img src="https://leetcard.jacoblin.cool/grigoriy-st?theme=dark" alt="LeetCode" width="400px">
@@ -62,12 +62,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriy-st&layout=compact&theme=highcontrast&card_width=350&langs_count=8&hide_border=true&hide=html,css,tex,makefile&exclude_repo=Omsk-Starostin,Test_Rep_1,Test_Rep_2,GetTheWords,Administration,Practice_Smartkom,Alice2,Alice,hhru-skill-extractor,Anki,YandexLyceum&title_color=3498db" alt="Top Langs" width="400px" height="200px">
     </td>
 
-  </tr>
+</tr>
 </table>
 
-
 </div>
-
+-->
 <!-- <img 
         src="https://streak-stats.demolab.com?user=grigoriy-st&theme=neon-dark&fire=DD472C" 
         alt="GitHub Streak" 
@@ -88,18 +87,18 @@
 -->
 
 
-<h3>🔭I'm interested in</h3>
+<!-- <h3>🔭I'm interested in</h3>
 <ul>
 <!--   <li type="none">Linux</li> -->
-  <li type="none">English</li>
+<!--  <li type="none">English</li>
 <!--   <li type="none">Algorithms and Data Structures</li> -->
-  <li type="none">Networks</li>
-  <li type="none">Microservices</li>
-  <li type="none">Golang</li>
+<!--  <li type="none">Networks</li>
+<!--  <li type="none">Microservices</li>
+<!--  <li type="none">Golang</li> -->
 <!--   <li type="none">TypeScript</li>
   <li type="none">NextJS</li> -->
 <!--   <li type="none">Golang</li> -->
-</ul>
+<!-- </ul> -->
 
 <br>
 
