@@ -24,7 +24,7 @@
 | **Helpdesk**      |                              |
 -->
 
-<div style="display: flex; justify-content: space-between; width: 100%; outline:2px">
+<!-- <div style="display: flex; justify-content: space-between; width: 100%; outline:2px">
       <div style="display: flex;">
             <img src="https://img.shields.io/badge/NVIDIA-GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU">
             <img src="https://img.shields.io/badge/AMD-CPU-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="CPU">
@@ -33,7 +33,7 @@
             <img src="https://img.shields.io/badge/Windows%20Server%20Datacenter-2022-0078D4?style=for-the-badge&logo=windows" alt="Windows Server Datacenter 2022">
       </div>
 
-</div>
+</div> -->
 </div>
 
 <div align="center">
@@ -75,7 +75,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=high-contrast&area=true&hide_border=true&custom_title=My%20Activity&bg_color=black&color=#ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=high-contrast&area=true&hide_border=true&custom_title=My%20Activity&bg_color=black&color=#ffffff" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=grigoriy-st&theme=high-contrast&area=true&hide_border=true&custom_title=My%20activity%20is%20only%20public%20projects&bg_color=black&color=#ffffff" width="100%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grigoriy-st&theme=github_dark&hide_border=true" width="100%">
 
@@ -100,6 +100,7 @@
 <!--   <li type="none">Golang</li> -->
 <!-- </ul> -->
 
+<br>
 <br>
 
 [![Rutube](https://img.shields.io/badge/-Rutube-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOS42MTUgNS43MjJjLS4yMDYtLjYxNS0uNjE1LS45MjMtMS4yMy0uOTIzSDEuMjNjLS42MTUgMC0xLjAyOS4zMDgtMS4yMy45MjMtLjIwNi42MTUtLjMwOCAxLjUzOC0uMzA4IDMuMDc3djYuNDA5YzAgMS41MzguMTAyIDIuNDYyLjMwOCAzLjA3Ny4yMDEuNjE1LjYxNS45MjMgMS4yMy45MjNoMTcuMTU1Yy42MTUgMCAxLjAyOS0uMzA4IDEuMjMtLjkyMy4yMDYtLjYxNS4zMDgtMS41MzguMzA4LTMuMDc3VjguNzk5Yy0uMDA2LTEuNTM5LS4xMDItMi40NjItLjMwOC0zLjA3N3pNOC40NjIgMTUuNzg5VjguMjA1bDUuOTM5IDMuNzk5LTUuOTM5IDMuNzg1eiIvPjwvc3ZnPg==&logoColor=white)](https://rutube.ru/channel/40119237/)
