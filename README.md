@@ -39,7 +39,7 @@
 <div align="center">
 <br>
       
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+network+engineer!;I+like+to+automate+something.;I+love+minimalism!;Btw,+I+use+Arch+linux!&center=true&width=500&height=50&animation=scale-in)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+an+existentialist.;I+like+to+automate+something!;Btw,+I+use+Arch+linux!;The+scripts+are+working,+you're+resting.&center=true&width=500&height=50&animation=scale-in)]()
 
 <!-- [![codewars](https://www.codewars.com/users/grigoriy_st/badges/large)](https://www.codewars.com/users/grigoriy_st)  -->
 
