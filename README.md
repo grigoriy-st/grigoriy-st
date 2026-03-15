@@ -112,6 +112,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grigoriy_st1)
 [![Habr](https://img.shields.io/badge/-Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/versatile_admin/)
 
+[![School 21](https://img.shields.io/badge/School_21-2A9D4C?style=for-the-badge&logo=42&logoColor=white)](https://platform.21-school.ru/profile/raismary)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/fcc88eb0a92-6af8-4c4b-add1-bf6177d8b6d3)
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com/users/grigoriy_st)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/grigoriy-st/)
